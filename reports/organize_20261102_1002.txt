@@ -1,0 +1,149 @@
+illya vorobey, it-31
+Files moved: 147
+ChromeSetup.exe -> downloads_copy\2025-08\ChromeSetup.exe
+DiscordSetup.exe -> downloads_copy\2025-08\DiscordSetup.exe
+node-v22.18.0-x64.msi -> downloads_copy\2025-08\node-v22.18.0-x64.msi
+Практична робота_ Налаштування середовища Angular, створення першого застосунку.pdf -> downloads_copy\2025-08\Практична робота_ Налаштування середовища Angular, створення першого застосунку.pdf
+VSCodeUserSetup-x64-1.103.0.exe -> downloads_copy\2025-08\VSCodeUserSetup-x64-1.103.0.exe
+Git-2.50.1-64-bit.exe -> downloads_copy\2025-08\Git-2.50.1-64-bit.exe
+download.jpg -> downloads_copy\2025-08\download.jpg
+Практична робота_ Робота з сервісами та HTTP-запитами.pdf -> downloads_copy\2025-08\Практична робота_ Робота з сервісами та HTTP-запитами.pdf
+sublime_text_build_4200_x64_setup.exe -> downloads_copy\2025-08\sublime_text_build_4200_x64_setup.exe
+Практична робота - Оптимізація HTML-коду та підготовка до публікації.pdf -> downloads_copy\2025-08\Практична робота - Оптимізація HTML-коду та підготовка до публікації.pdf
+Лекція_ Семантичні елементи HTML.pdf -> downloads_copy\2025-08\Лекція_ Семантичні елементи HTML.pdf
+Створення простого багатосторінкового сайту з базовими стилями CSS.pdf -> downloads_copy\2025-08\Створення простого багатосторінкового сайту з базовими стилями CSS.pdf
+Практична робота - Оптимізація HTML-коду та підготовка до публікації (1).pdf -> downloads_copy\2025-08\Практична робота - Оптимізація HTML-коду та підготовка до публікації (1).pdf
+Практична робота - Оптимізація HTML-коду та підготовка до публікації (2).pdf -> downloads_copy\2025-08\Практична робота - Оптимізація HTML-коду та підготовка до публікації (2).pdf
+Практична робота - Оптимізація HTML-коду та підготовка до публікації (3).pdf -> downloads_copy\2025-08\Практична робота - Оптимізація HTML-коду та підготовка до публікації (3).pdf
+Практична робота - Оптимізація HTML-коду та підготовка до публікації (4).pdf -> downloads_copy\2025-08\Практична робота - Оптимізація HTML-коду та підготовка до публікації (4).pdf
+Практична робота - Оптимізація HTML-коду та підготовка до публікації (5).pdf -> downloads_copy\2025-08\Практична робота - Оптимізація HTML-коду та підготовка до публікації (5).pdf
+Варіант 1_ Форма реєстрації користувача (1).pdf -> downloads_copy\2025-09\Варіант 1_ Форма реєстрації користувача (1).pdf
+ПР5 E1 Формули у електронних таблицях.pdf -> downloads_copy\2025-09\ПР5 E1 Формули у електронних таблицях.pdf
+ПР5 E1 Формули у електронних таблицях (1).pdf -> downloads_copy\2025-09\ПР5 E1 Формули у електронних таблицях (1).pdf
+Практична робота № 3.pdf -> downloads_copy\2025-09\Практична робота № 3.pdf
+Практична 5.pdf -> downloads_copy\2025-09\Практична 5.pdf
+python-3.13.7-amd64.exe -> downloads_copy\2025-09\python-3.13.7-amd64.exe
+GitHubDesktopSetup-x64.exe -> downloads_copy\2025-10\GitHubDesktopSetup-x64.exe
+ПР9 E5 фінансові обчислення.pdf -> downloads_copy\2025-10\ПР9 E5 фінансові обчислення.pdf
+ПР9 E5 фінансові обчислення (1).pdf -> downloads_copy\2025-10\ПР9 E5 фінансові обчислення (1).pdf
+Практична робота_ Стилізація веб-сторінки з використанням основних селекторів та властивостей (1).pdf -> downloads_copy\2025-10\Практична робота_ Стилізація веб-сторінки з використанням основних селекторів та властивостей (1).pdf
+Розташування елементів на сторінці з використанням позиціонування.pdf -> downloads_copy\2025-10\Розташування елементів на сторінці з використанням позиціонування.pdf
+Розташування елементів на сторінці з використанням позиціонування (1).pdf -> downloads_copy\2025-10\Розташування елементів на сторінці з використанням позиціонування (1).pdf
+Pin by Kelvin Ramos on Siuuu _ Meme messi, Messi funny, Lionel messi.jpg -> downloads_copy\2025-10\Pin by Kelvin Ramos on Siuuu _ Meme messi, Messi funny, Lionel messi.jpg
+ПР12 А3 Створення та редагування баз даних.pdf -> downloads_copy\2025-10\ПР12 А3 Створення та редагування баз даних.pdf
+OIP.webp -> downloads_copy\2025-10\OIP.webp
+завантаження.webp -> downloads_copy\2025-10\завантаження.webp
+завантаження (1).webp -> downloads_copy\2025-10\завантаження (1).webp
+ПР12 А3 Створення та редагування баз даних (1).pdf -> downloads_copy\2025-10\ПР12 А3 Створення та редагування баз даних (1).pdf
+ПР13 А4 Створення форм та звітів у базах даних в1.pdf -> downloads_copy\2025-10\ПР13 А4 Створення форм та звітів у базах даних в1.pdf
+OIP (1).webp -> downloads_copy\2025-10\OIP (1).webp
+OIP (2).png -> downloads_copy\2025-10\OIP (2).png
+ПР14 А5 Запити.pdf -> downloads_copy\2025-10\ПР14 А5 Запити.pdf
+Практична робота_ Розробка адаптивної веб-сторінки для різних пристроїв.pdf -> downloads_copy\2025-10\Практична робота_ Розробка адаптивної веб-сторінки для різних пристроїв.pdf
+ПР16 І2 Розробка пов’язаних веб-сторінок.pdf -> downloads_copy\2025-11\ПР16 І2 Розробка пов’язаних веб-сторінок.pdf
+Практична робота_ Створення стилів з використанням препроцесора та оптимізація коду.pdf -> downloads_copy\2025-11\Практична робота_ Створення стилів з використанням препроцесора та оптимізація коду.pdf
+node-v24.11.0-x64.msi -> downloads_copy\2025-11\node-v24.11.0-x64.msi
+ПР16 І2 126 Розробка пов’язаних веб-сторінок.pdf -> downloads_copy\2025-11\ПР16 І2 126 Розробка пов’язаних веб-сторінок.pdf
+Soccer Memes.jpg -> downloads_copy\2025-11\Soccer Memes.jpg
+ПР17 І3 Використання засобів автоматизованого створення_.pdf -> downloads_copy\2025-11\ПР17 І3 Використання засобів автоматизованого створення_.pdf
+RobloxPlayerInstaller-D7JPTQPK9M.exe -> downloads_copy\2025-11\RobloxPlayerInstaller-D7JPTQPK9M.exe
+ПР18 І4 Виконання завдань в середовищі для спільної роботи з документами _.pdf -> downloads_copy\2025-11\ПР18 І4 Виконання завдань в середовищі для спільної роботи з документами _.pdf
+ПР19 І5 в3 Колективне виконання завдань з обробки даних в3.pdf -> downloads_copy\2025-11\ПР19 І5 в3 Колективне виконання завдань з обробки даних в3.pdf
+gimp-3.0.8-setup-2.exe -> downloads_copy\2026-02\gimp-3.0.8-setup-2.exe
+Inkscape Installer.exe -> downloads_copy\2026-02\Inkscape Installer.exe
+Microsoft.Services.Store.winmd -> downloads_copy\2026-02\Microsoft.Services.Store.winmd
+Inkscape Installer (1).exe -> downloads_copy\2026-02\Inkscape Installer (1).exe
+Inkscape Installer (2).exe -> downloads_copy\2026-02\Inkscape Installer (2).exe
+Завдання.docx -> downloads_copy\2026-03\Завдання.docx
+Завдання (1).docx -> downloads_copy\2026-03\Завдання (1).docx
+3 ср.pptx -> downloads_copy\2026-03\3 ср.pptx
+Практична робота_ Умовні конструкції, цикли, функції в JavaScript.docx -> downloads_copy\2026-03\Практична робота_ Умовні конструкції, цикли, функції в JavaScript.docx
+xampp-windows-x64-8.2.12-0-VS16-installer.exe -> downloads_copy\2026-04\xampp-windows-x64-8.2.12-0-VS16-installer.exe
+RobloxPlayerInstaller.exe -> downloads_copy\2026-04\RobloxPlayerInstaller.exe
+blender-5.1.1-windows-x64.msi -> downloads_copy\2026-04\blender-5.1.1-windows-x64.msi
+ДУРА.laccdb -> downloads_copy\2026-04\ДУРА.laccdb
+ДУРА (1).laccdb -> downloads_copy\2026-04\ДУРА (1).laccdb
+ДУРА (2).laccdb -> downloads_copy\2026-04\ДУРА (2).laccdb
+ДУРА (3).laccdb -> downloads_copy\2026-04\ДУРА (3).laccdb
+ДУРА (4).laccdb -> downloads_copy\2026-04\ДУРА (4).laccdb
+ДУРА (5).laccdb -> downloads_copy\2026-04\ДУРА (5).laccdb
+original_msg.eml -> downloads_copy\2026-04\original_msg.eml
+ДУРА (6).laccdb -> downloads_copy\2026-04\ДУРА (6).laccdb
+ДУРА (7).laccdb -> downloads_copy\2026-04\ДУРА (7).laccdb
+gsrvs.accdb -> downloads_copy\2026-04\gsrvs.accdb
+task-manager-api.pdf -> downloads_copy\2026-04\task-manager-api.pdf
+image1.png -> downloads_copy\2026-05\image1.png
+image1 (1).png -> downloads_copy\2026-05\image1 (1).png
+image2.jpeg -> downloads_copy\2026-05\image2.jpeg
+image3.jpeg -> downloads_copy\2026-05\image3.jpeg
+image0.jpeg -> downloads_copy\2026-05\image0.jpeg
+image0 (1).jpeg -> downloads_copy\2026-05\image0 (1).jpeg
+image2 (1).jpeg -> downloads_copy\2026-05\image2 (1).jpeg
+image1 (2).png -> downloads_copy\2026-05\image1 (2).png
+IMG_9088.jpeg -> downloads_copy\2026-05\IMG_9088.jpeg
+Запустити MySQL з Doker.docx -> downloads_copy\2026-05\Запустити MySQL з Doker.docx
+sundowner_overlook_4k.exr -> downloads_copy\2026-05\sundowner_overlook_4k.exr
+download (1).jpg -> downloads_copy\2026-05\download (1).jpg
+6. Практична робота_ Інтерактивний застосунок зі станами.docx -> downloads_copy\2026-05\6. Практична робота_ Інтерактивний застосунок зі станами.docx
+ПР. Аналіз стандартів захисту інформації_433b84ad-3a03-4f55-8241-b840808dea66.doc -> downloads_copy\2026-05\ПР. Аналіз стандартів захисту інформації_433b84ad-3a03-4f55-8241-b840808dea66.doc
+ПР. Виявлення вірусів у комп'ютерній системі_86e0c74b-f532-4142-a988-7405b23549ff.doc -> downloads_copy\2026-05\ПР. Виявлення вірусів у комп'ютерній системі_86e0c74b-f532-4142-a988-7405b23549ff.doc
+ПР. Виявлення вірусів у комп'ютерній системі_c5b35943-97a0-4ef9-836c-697a290dc552.doc -> downloads_copy\2026-05\ПР. Виявлення вірусів у комп'ютерній системі_c5b35943-97a0-4ef9-836c-697a290dc552.doc
+ПР 13. Встановлення та налаштування віртуальної машини.docx -> downloads_copy\2026-06\ПР 13. Встановлення та налаштування віртуальної машини.docx
+VirtualBox-7.2.8-173730-Win.exe -> downloads_copy\2026-06\VirtualBox-7.2.8-173730-Win.exe
+Практичнка 2.pdf -> downloads_copy\2026-08\Практичнка 2.pdf
+Практична_  Створення та взаємодія компонентів в Angular.pdf -> downloads_copy\2026-08\Практична_  Створення та взаємодія компонентів в Angular.pdf
+Win10_22H2_Ukrainian_x64v1.iso -> downloads_copy\2026-08\Win10_22H2_Ukrainian_x64v1.iso
+VSCodeUserSetup-x64-1.135.0.exe -> downloads_copy\2026-08\VSCodeUserSetup-x64-1.135.0.exe
+ПР1 - Вступ.pdf -> downloads_copy\2026-09\ПР1 - Вступ.pdf
+VC_redist.x64.exe -> downloads_copy\2026-09\VC_redist.x64.exe
+VirtualBox-7.2.16-174877-Win.exe -> downloads_copy\2026-09\VirtualBox-7.2.16-174877-Win.exe
+linuxmint-21.3-cinnamon-64bit.iso -> downloads_copy\2026-09\linuxmint-21.3-cinnamon-64bit.iso
+DB.Browser.for.SQLite-v3.13.1-win64.zip -> downloads_copy\2026-09\DB.Browser.for.SQLite-v3.13.1-win64.zip
+Практична 1 таблиця.xlsx -> downloads_copy\2026-09\Практична 1 таблиця.xlsx
+ПР1.xlsx -> downloads_copy\2026-09\ПР1.xlsx
+7. Сервіси та Dependency Injection в Angular.pdf -> downloads_copy\2026-09\7. Сервіси та Dependency Injection в Angular.pdf
+Практична.pdf -> downloads_copy\2026-09\Практична.pdf
+Практична робота_ Роутинг в Angular.pdf -> downloads_copy\2026-09\Практична робота_ Роутинг в Angular.pdf
+Практична (1).pdf -> downloads_copy\2026-09\Практична (1).pdf
+7. Сервіси та Dependency Injection в Angular (1).pdf -> downloads_copy\2026-09\7. Сервіси та Dependency Injection в Angular (1).pdf
+8. Роутинг в Angular.docx -> downloads_copy\2026-09\8. Роутинг в Angular.docx
+Практична робота_ Роутинг в Angular (1).pdf -> downloads_copy\2026-09\Практична робота_ Роутинг в Angular (1).pdf
+v5_prerequisites.sql -> downloads_copy\2026-09\v5_prerequisites.sql
+gcpwstandaloneenterprise64.exe -> downloads_copy\2026-09\gcpwstandaloneenterprise64.exe
+12. Практична робота_ Робота з формами та валідація даних в Angular.pdf -> downloads_copy\2026-09\12. Практична робота_ Робота з формами та валідація даних в Angular.pdf
+11. Робота з формами в Angular.pdf -> downloads_copy\2026-09\11. Робота з формами в Angular.pdf
+13. Практична робота_ Створення багатосторінкового Angular-застосунку.pdf -> downloads_copy\2026-09\13. Практична робота_ Створення багатосторінкового Angular-застосунку.pdf
+ПР2 - Встановлення Windows.pdf -> downloads_copy\2026-09\ПР2 - Встановлення Windows.pdf
+v5_prerequisites (1).sql -> downloads_copy\2026-09\v5_prerequisites (1).sql
+v5_prerequisites (2).sql -> downloads_copy\2026-09\v5_prerequisites (2).sql
+13. Практична робота_ Створення багатосторінкового Angular-застосунку (1).pdf -> downloads_copy\2026-09\13. Практична робота_ Створення багатосторінкового Angular-застосунку (1).pdf
+11. Робота з формами в Angular (1).pdf -> downloads_copy\2026-09\11. Робота з формами в Angular (1).pdf
+ПР 6_1 сортування.xlsx -> downloads_copy\2026-09\ПР 6_1 сортування.xlsx
+ПР 6_2 фільтрування.xlsx -> downloads_copy\2026-09\ПР 6_2 фільтрування.xlsx
+ПР2 - Встановлення Windows (1).pdf -> downloads_copy\2026-09\ПР2 - Встановлення Windows (1).pdf
+v5_prerequisites (3).sql -> downloads_copy\2026-09\v5_prerequisites (3).sql
+ПР2 - Встановлення Windows (2).pdf -> downloads_copy\2026-10\ПР2 - Встановлення Windows (2).pdf
+zavantazhennya-os-windows.docx -> downloads_copy\2026-10\zavantazhennya-os-windows.docx
+Windows11_Client_x64_uk-ua_26300_9457.iso -> downloads_copy\2026-10\Windows11_Client_x64_uk-ua_26300_9457.iso
+MediaCreationTool_22H2.exe -> downloads_copy\2026-10\MediaCreationTool_22H2.exe
+Windows10Upgrade9252.exe -> downloads_copy\2026-10\Windows10Upgrade9252.exe
+MediaCreationTool_22H2 (1).exe -> downloads_copy\2026-10\MediaCreationTool_22H2 (1).exe
+ПР2 - Встановлення Windows (3).pdf -> downloads_copy\2026-10\ПР2 - Встановлення Windows (3).pdf
+VBoxGuestAdditions_7.1.4.iso -> downloads_copy\2026-10\VBoxGuestAdditions_7.1.4.iso
+ПР 6_1 сортування (1).xlsx -> downloads_copy\2026-10\ПР 6_1 сортування (1).xlsx
+ПР 6_2 фільтрування (1).xlsx -> downloads_copy\2026-10\ПР 6_2 фільтрування (1).xlsx
+v5_prerequisites (4).sql -> downloads_copy\2026-10\v5_prerequisites (4).sql
+Практична_робота_Інформатика_НДЗ-53.xlsx -> downloads_copy\2026-10\Практична_робота_Інформатика_НДЗ-53.xlsx
+Фінансові_обчислення.xlsx -> downloads_copy\2026-10\Фінансові_обчислення.xlsx
+Лабораторна_Фінансові_обчислення (1).xlsx -> downloads_copy\2026-10\Лабораторна_Фінансові_обчислення (1).xlsx
+lab_work_8.db -> downloads_copy\2026-10\lab_work_8.db
+v5_prerequisites (5).sql -> downloads_copy\2026-10\v5_prerequisites (5).sql
+Практична_робота_Інформатика_НД3-53 (3).xlsx -> downloads_copy\2026-10\Практична_робота_Інформатика_НД3-53 (3).xlsx
+Проект1_Квадратне_рівняння.xlsx -> downloads_copy\2026-10\Проект1_Квадратне_рівняння.xlsx
+v5_prerequisites (6).sql -> downloads_copy\2026-10\v5_prerequisites (6).sql
+ПР3 - Аналіз завантаження Windows.pdf -> downloads_copy\2026-10\ПР3 - Аналіз завантаження Windows.pdf
+Autoruns.zip -> downloads_copy\2026-10\Autoruns.zip
+ПР4 - Розмежування прав доступу (Windows).pdf -> downloads_copy\2026-10\ПР4 - Розмежування прав доступу (Windows).pdf
+Практична_робота_Інформатика (1).xlsx -> downloads_copy\2026-10\Практична_робота_Інформатика (1).xlsx
+Практична_робота_Інформатика (1) (1).xlsx -> downloads_copy\2026-10\Практична_робота_Інформатика (1) (1).xlsx
+desktop.ini -> downloads_copy\2026-11\desktop.ini
