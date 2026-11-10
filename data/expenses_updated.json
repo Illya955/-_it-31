@@ -1,0 +1,86 @@
+[
+  {
+    "date": "2026-09-29",
+    "category": "food",
+    "amount": 150.0,
+    "comment": "lunch"
+  },
+  {
+    "date": "2026-09-29",
+    "category": "transport",
+    "amount": 40.0,
+    "comment": "bus"
+  },
+  {
+    "date": "2026-09-30",
+    "category": "food",
+    "amount": 280.0,
+    "comment": "groceries"
+  },
+  {
+    "date": "2026-09-30",
+    "category": "coffee",
+    "amount": 70.0,
+    "comment": "coffee"
+  },
+  {
+    "date": "2026-10-01",
+    "category": "transport",
+    "amount": 40.0,
+    "comment": "bus"
+  },
+  {
+    "date": "2026-10-01",
+    "category": "food",
+    "amount": 120.0,
+    "comment": "dinner"
+  },
+  {
+    "date": "2026-10-02",
+    "category": "books",
+    "amount": 350.0,
+    "comment": "programming book"
+  },
+  {
+    "date": "2026-10-02",
+    "category": "coffee",
+    "amount": 65.0,
+    "comment": "coffee"
+  },
+  {
+    "date": "2026-10-03",
+    "category": "food",
+    "amount": 200.0,
+    "comment": "pizza with friends"
+  },
+  {
+    "date": "2026-10-03",
+    "category": "transport",
+    "amount": 40.0,
+    "comment": "bus"
+  },
+  {
+    "date": "2026-10-04",
+    "category": "food",
+    "amount": 300.0,
+    "comment": "groceries"
+  },
+  {
+    "date": "2026-10-04",
+    "category": "internet",
+    "amount": 250.0,
+    "comment": "mobile internet"
+  },
+  {
+    "date": "2026-10-05",
+    "category": "food",
+    "amount": 100.0,
+    "comment": "breakfast"
+  },
+  {
+    "date": "2026-11-10",
+    "category": "food",
+    "amount": 10.0,
+    "comment": "New personal expense"
+  }
+]
